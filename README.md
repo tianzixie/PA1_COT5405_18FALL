@@ -4,3 +4,4 @@
 # Spyder 3.2.4
 # Anaconda Navigator 1.6.9
 # MacOS 10.13.6
+# Pid remainder is 1
